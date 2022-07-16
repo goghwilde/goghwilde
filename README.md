@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goghwilde
-- 👀 I’m interested in learning more about code, software development and programming.
+- 👀 I’m interested in learning more about code, front end development, UI/UX design, writing and research.
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on any kinds of project!
 - 📫 How to reach via email is best!
